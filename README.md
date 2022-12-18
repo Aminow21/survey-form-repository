@@ -5,5 +5,4 @@ on freecodecamp
 
 ## cotents
 
-https://github.com/Aminow21/survey-form-repository.git
-
+survey-form-repository/section one projects/
