@@ -3,6 +3,6 @@
 this repository contains section one of html-css projects
 on freecodecamp
 
-## cotents
+## contents
 
-survey-form-repository/section one projects/
+https://github.com/Aminow21/survey-form-repository.git
